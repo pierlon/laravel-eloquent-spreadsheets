@@ -1,5 +1,5 @@
 {
-    "name": "rhincodon/laravel-eloquent-spreadsheets",
+    "name": "pierlon/laravel-eloquent-spreadsheets",
     "description": "Sync Eloquent models with google spreadsheets",
     "keywords": [
         "laravel",
